@@ -1,5 +1,5 @@
 # Humble-Superhero-API
-Repository created for the recruiting process I'm participating at eJam
+Repository created for the recruiting process I'm participating at eJam.
 
 ## Overview
 The Humble Superhero API allows users to add superheroes with their name, superpower, and a humility score from 1 to 10. Users can also fetch a list of superheroes sorted by their humility score.
